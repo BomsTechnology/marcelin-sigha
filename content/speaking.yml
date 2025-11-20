@@ -1,0 +1,11 @@
+title: Talks & Workshops
+description: Explore talks and workshops I've given on development, and building skills & better digital products.
+links:
+  - label: Invite me to speak
+    size: md
+events:
+  - category: Conference
+    title: "What's new in VueJS 3.2 (French)"
+    date: "2022-8-26"
+    location: "WebDevMe, France"
+    url: "https://www.youtube.com/watch?v=2rXNvvO1oZ0&t=418s"

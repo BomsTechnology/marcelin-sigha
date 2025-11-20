@@ -1,0 +1,75 @@
+title: About Me
+description: Developer based in Calgary, AB, I specialize in crafting thoughtful, user-centered digital products for both web and mobile. With years of hands-on experience, I love combining clean design, solid engineering, and real-world usability to deliver smooth, high-quality experiences. Fully bilingual in French and English, I collaborate easily across teams, clients, and projects. Whether working independently or alongside a team, I bring a sharp eye for detail, a problem-solving mindset, and a dedication to shipping polished, reliable work. From Shopify stores to custom applications, performance and quality are always at the core of what I build. Outside of client work, I’m constantly experimenting, learning, and creating. Personal projects, open-source contributions, and ongoing exploration help me stay fresh, curious, and always pushing my craft further.
+experience:
+  title: Experiences
+  items:
+    - position: "Full Stack Developer / Shopify Developer"
+      date: "2024 - 2025"
+      company: Freelance
+    - position: "Full Stack Developer / Shopify Developer"
+      date: "2023 - 2023"
+      company: Freecoders
+    - position: "Frontend Developer"
+      date: "2022 - 2023"
+      company: Yowyob Inc
+    - position: "Frontend Developer"
+      date: "2019 - 2022"
+      company: GNO Solutions
+education:
+  title: Education
+  items:
+    - position: "Bachelor Degree in Software Development"
+      date: "2025 - Present"
+      school: Southern Alberta Institute of Technology 
+    - position: "Bachelor Degree in Computer Science"
+      date: "2019 - 2022"
+      school: University Institute of Technologies - Douala 
+stack:
+  title: Stack
+  description: Some of the software and technologies I use on a daily basis.
+  items:
+    - name: JavaScript
+      icon: logos-javascript
+    - name: TypeScript
+      icon: logos-typescript-icon
+    - name: NodeJs
+      icon: logos-nodejs-icon
+    - name: Nuxt
+      icon: logos-nuxt-icon
+    - name: Vue
+      icon: logos-vue
+    - name: React
+      icon: logos-react
+    - name: React Native
+      icon: devicon-reactnative-wordmark
+    - name: Tailwind
+      icon: devicon-tailwindcss 
+    - name: Python
+      icon: logos-python
+    - name: Php
+      icon: logos-php
+    - name: Laravel
+      icon: logos-laravel
+    - name: Figma
+      icon: logos-figma
+    - name: Supabase
+      icon: logos-supabase-icon
+    - name: Firebase
+      icon: logos-firebase-icon
+    - name: MongoDB
+      icon: logos-mongodb-icon
+    - name: Git
+      icon: logos-git-icon
+    - name: NextJs
+      icon: logos-nextjs-icon
+    - name: Shopify
+      icon: logos-shopify
+    - name: Shopify Liquid
+      icon: catppuccin-liquid
+    - name: Vercel
+      icon: logos-vercel-icon
+images:
+  - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    alt: My coffee workspace
+  - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    alt: My trip to Tokyo
