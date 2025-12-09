@@ -1,6 +1,6 @@
 title: bbtv player
-description: This is a M3U list player 
-image: /project/alienarts.png
+description: This is a M3U list player; allows users to watch tv online. 
+image: /project/bbtv.png
 url: "https://github.com/BomsTechnology/bbtv-player"
 github: "https://github.com/BomsTechnology/bbtv-player"
 tags: ["Mobile", "Featured", "All"]
